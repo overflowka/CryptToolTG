@@ -6,7 +6,7 @@ How to setup?
 `First of all, create a bot in the Telegram bot @BotFather`
 
 `Then, get your userid. this can be done in the bot @useridinfobot`
-```
+```php
 1. Clone the repository (git clone https://github.com/overflowka/CryptoToolTG.git)
 2. Install packages (npm install)
 2.1 Compile generate.ts with the command (tsc .\generate.js)
@@ -21,7 +21,7 @@ How to setup?
 ```
 
 How to use?
-```
+```ruby
 Start the index.js (node .\index.js) or (pm2 start .\index.js)
 Now find your bot in Telegram, and simply click on /start
 
